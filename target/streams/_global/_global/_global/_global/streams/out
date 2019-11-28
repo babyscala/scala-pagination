@@ -1,0 +1,7 @@
+[error] Terminating watch due to invalid command(s): 'Expected ';'
+[error] Not a valid command: reStart
+[error] Not a valid project ID: reStart
+[error] Expected ':'
+[error] Not a valid key: reStart (similar: target, state, progressState)
+[error] reStart
+[error]        ^'

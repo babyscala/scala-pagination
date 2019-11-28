@@ -1,0 +1,33 @@
+[debug] Packaging D:\workplace\scala\paginate\target\scala-2.13\paginate_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes
+[debug] 	Command.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\Command.class
+[debug] 	Main$.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\Main$.class
+[debug] 	Main.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\Main.class
+[debug] 	Models$.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\Models$.class
+[debug] 	Models$Item$.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\Models$Item$.class
+[debug] 	Models$Item.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\Models$Item.class
+[debug] 	Models$Paginate$.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\Models$Paginate$.class
+[debug] 	Models$Paginate.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\Models$Paginate.class
+[debug] 	Models$Sort$.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\Models$Sort$.class
+[debug] 	Models$Sort.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\Models$Sort.class
+[debug] 	Models.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\Models.class
+[debug] 	PaginateCommand.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\PaginateCommand.class
+[debug] 	RootCommand.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\RootCommand.class
+[debug] 	SortCommand.class
+[debug] 	  D:\workplace\scala\paginate\target\scala-2.13\classes\SortCommand.class
+[debug] Done packaging.
